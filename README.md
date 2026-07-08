@@ -1,6 +1,6 @@
 # NeetCode Solutions — @Antonio-Caiazzo
 
-> Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `neetcode-submissions`
+> Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `dsa-practice-python`
 
 ---
 
